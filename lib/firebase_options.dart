@@ -52,30 +52,14 @@ class DefaultFirebaseOptions {
     }
   }
 
-  // static const FirebaseOptions web = FirebaseOptions(
-  //   apiKey: 'AIzaSyBZt5nSQAexttfpsPnDYRduXWzwg_8whKk',
-  //   appId: '1:766557129839:web:dbd83ceab98be5f901919a',
-  //   messagingSenderId: '36406438773',
-  //   projectId: 'hashingloginapp',
-  //   authDomain: 'fiveguysotp.firebaseapp.com',
-  //   storageBucket: 'hashingloginapp.appspot.com',
-  // );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBZt5nSQAexttfpsPnDYRduXWzwg_8whKk',
-    appId: '1:36406438773:android:6d557f00cfa6812257413c',
-    messagingSenderId: '36406438773',
-    projectId: 'hashingloginapp',
-    storageBucket: 'hashingloginapp.appspot.com',
+    apiKey: 'Insert Here',
+    appId: 'Insert Here',
+    messagingSenderId: 'Insert Here',
+    projectId: 'Insert Here',
+    storageBucket: 'Insert Here',
   );
 
-  // static const FirebaseOptions ios = FirebaseOptions(
-  //   apiKey: 'AIzaSyBZt5nSQAexttfpsPnDYRduXWzwg_8whKk',
-  //   appId: '1:766557129839:ios:7c3624a110b7525601919a',
-  //   messagingSenderId: '36406438773',
-  //   projectId: 'hashingloginapp',
-  //   storageBucket: 'hashingloginapp.appspot.com',
-  //   iosBundleId: 'com.example.fiveguysotp',
-  // );
 
 }
