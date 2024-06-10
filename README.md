@@ -1,6 +1,8 @@
 # fiveguysotp
 
 This project aims to test the capabilities of cloud server and OTP authentication system using phone number
+
+## Poster
 ![Model](MobileJKN.png)
 
 ## Getting Started
