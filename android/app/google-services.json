@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "36406438773",
+    "project_id": "hashingloginapp",
+    "storage_bucket": "hashingloginapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36406438773:android:6d557f00cfa6812257413c",
+        "android_client_info": {
+          "package_name": "com.fiveguys.hashingloginapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZt5nSQAexttfpsPnDYRduXWzwg_8whKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
